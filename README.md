@@ -38,6 +38,11 @@
 
 ---
 
+## 📈 Contribution Activity
+
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya09-cse&theme=tokyo-night)](https://github.com/Aditya09-cse)
+
+
 ## 🚀 DevOps Focus Areas
 - CI/CD Pipelines  
 - Cloud Deployment (AWS EC2, S3, IAM)  
