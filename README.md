@@ -32,11 +32,13 @@
 
 ---
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Overview
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya09-cse&theme=tokyonight)
+
+## 📊 GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya09-cse&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
