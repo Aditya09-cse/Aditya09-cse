@@ -30,16 +30,19 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
+## ⭐ GitHub Stars
 
+![GitHub Stars](https://img.shields.io/github/stars/Aditya09-cse?style=for-the-badge&logo=github&color=yellow)
 
+---
 
 ## 📊 GitHub Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aditya09-cse&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 
 ---
 
