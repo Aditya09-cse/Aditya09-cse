@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DevOps-Learner-00C6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DevOps-Engineer-00C6FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Cloud-AWS-6C63FF?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20To-Opportunities-00C6FF?style=flat-square"/>
 
@@ -95,88 +95,51 @@ goal: "Build reliable, secure and automated cloud systems."
 
 <div align="center">
 
-## ⚡ DevOps Focus Areas
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ CI/CD & Automation
-
-- GitHub Actions
-- CI/CD pipeline design
-- Multi-job workflows
-- Matrix builds
-- Dependency caching
-- Build artifacts
-- Self-hosted runners
-- Deployment automation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐳 Containers & Kubernetes
-
-- Docker
-- Docker Compose
-- Kubernetes Deployments
-- Services
-- ConfigMaps
-- Secrets
-- Persistent Volumes
-- PersistentVolumeClaims
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ☁️ AWS Cloud
-
-- Amazon EC2
-- Amazon S3
-- IAM
-- VPC fundamentals
-- Security Groups
-- Load Balancing
-- Auto Scaling
-- CloudWatch
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 DevSecOps
-
-- Trivy
-- Gitleaks
-- Bandit
-- Container scanning
-- Secret detection
-- Security checks in CI/CD
-- Automated vulnerability scanning
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
 # 🚀 Featured Projects
 
 ### `Learning DevOps by Building Real Systems`
 
 </div>
+
+  
+## 🩺 DevDoctor-AI
+
+> AI-powered DevOps incident management and troubleshooting platform built with Flask, PostgreSQL, Ollama, Docker, Kubernetes and DevSecOps.
+
+### Architecture
+
+```text
+                     Engineer
+                        │
+                        ▼
+                  DevDoctor-AI
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+      Incidents     AI Assistant   Dashboard
+          │             │             │
+          ▼             ▼             │
+     PostgreSQL       Ollama          │
+          │             │             │
+          └─────────────┼─────────────┘
+                        ▼
+                   Kubernetes
+                        │
+                ┌───────┼───────┐
+                ▼       ▼       ▼
+              Flask    DB     Ollama
+
+```
+
+### Highlights
+ `Incident` • ` Management`  • `DevOps AI Assistant` • `Local LLM`  • `Kubernetes` • `CI/CD `• `DevSecOps`
+
+### Tech Stack
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,docker,kubernetes,githubactions&theme=dark"/> <br/>
+
+ ` Ollama` • `Bandit` • `Gitleaks` • `Trivy `
+
+ <a href="https://github.com/Aditya09-cse/DevDoctor-Ai"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00C6FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 ## ⚙️ DevOps Task Manager
 
@@ -305,31 +268,6 @@ goal: "Build reliable, secure and automated cloud systems."
 
 ---
 
-## ⚡ GitHub Actions DevOps Lab
-
-> Hands-on collection of CI/CD and automation workflows created while exploring practical GitHub Actions concepts.
-
-```text
-                         20+ Workflows
-                               │
-            ┌──────────────────┼──────────────────┐
-            │                  │                  │
-            ▼                  ▼                  ▼
-          CI/CD              Docker            Security
-            │                  │                  │
-      ┌─────┼─────┐       ┌────┴────┐        ┌────┴────┐
-      ▼     ▼     ▼       ▼         ▼        ▼         ▼
-   Matrix Cache Artifacts Build     Push    Trivy   Gitleaks
-            │                  │
-            ▼                  ▼
-        Multi-job            Deploy
-```
-
-### Practiced
-
-`CI/CD` • `Matrix Builds` • `Caching` • `Artifacts` • `Docker Builds` • `Security Scanning` • `Self-Hosted Runners`
-
----
 
 ## 📓 My DevOps Journey
 
